@@ -6,7 +6,6 @@
     "build": "vite build"
   },
   "dependencies": {
-    "eslint": "^7.26.0",
     "vue": "^3.0.4"
   },
   "devDependencies": {
